@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-    <title>מחולל לפיילוט מחלקת ספורט</title>
+    <title>מחולל מחלקת תוכן מיוחד</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -109,9 +109,9 @@
 			<div class="row row-full" style="height:100px; background: #f00;">
 				<div class="w3-card-4">
 				<header class="w3-container w3-center red-color with-logo html">
-                <h1>מחולל פיילוט מחלקת ספורט</h1>
+                <h1>מחולל מחלקת תוכן מיוחד</h1>
                 <p class="w3-large">
-                    ברוכים הבאים למחולל של פיילוט מחלקת ספורט!
+                    ברוכים הבאים למחולל החדש של מחלקת תוכן מיוחד!
                     <br>
                     כל מה שתצטרכו זה למלא את הפרטים למטה,
                     <br>
@@ -120,9 +120,9 @@
 						<span class="inner-switch">כבוי</span>
 					<div class = "c">
 						המחולל נוצר על ידי - 
-						<a href="https://www.fxp.co.il/member.php?u=1196719">Just Itay</a>
+						<a href="https://www.fxp.co.il/member.php?u=1190738">Chandler Bong</a>
 						<br>
-						גרסת המחולל הינה: 1.0.0
+						גרסת המחולל הינה: 1.0.2
 				</div>
                 </p>
             </header>
@@ -136,7 +136,7 @@
 				<br>
                 <textarea class="w3-input w3-radius-button" id="output" rows="10" cols="80" dir="ltr" readonly=""></textarea>
 				<p>
-                <button class="w3-button red-color w3-radius-button" id="buildBtn">יצירת כתבה</button>
+                <button class="w3-button red-color w3-radius-button" id="buildBtn">יצירת מבזק</button>
                 <button class="w3-button red-color w3-radius-button" id="copyBtn" disabled="">העתק</button>
                 <button class="w3-button red-color w3-radius-button" id="formatBtn">אפס</button>
 				<button class="w3-button red-color w3-radius-button" id="publishBtn" onclick="window.open('https://www.fxp.co.il/newthread.php?do=newthread&amp;f=9658')">פרסם</button>
